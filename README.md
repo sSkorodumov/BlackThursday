@@ -1,0 +1,2 @@
+# BlackThursday
+An investor simulator
